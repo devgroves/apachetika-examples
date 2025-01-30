@@ -1,0 +1,16 @@
+Title: Database Architect/Developer
+Client: PANYNJ   
+Location: Jersey City, NJ 
+Duration: 4 Years 
+
+Job Description:  
+
+The Engineering Solutions Unit is seeking a skilled Database Architect/Developer to Architect and develop database solutions.
+
+Mandatory Skills:
+
+· Architect and develop database solutions to organize, query, and report complex engineering information, including data and document repositories.
+· Provide full life-cycle database design support services, including business analysis, conceptual database design, database prototype development, physical database design, implementation, network deployment, maintenance, and training.
+· Develop database solutions using Microsoft SQL 2014/2016/2019, Azure SQL services, and Azure SQL Managed Instance.
+· Perform data modeling and data integration tasks using ETL processes, preferably with Microsoft SQL Server Integration Services (SSIS).
+· Maintain and enhance customized data repository and data warehouse solutions, integrating all engineering capital project design and delivery databases.

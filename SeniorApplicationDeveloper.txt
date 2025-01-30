@@ -1,0 +1,24 @@
+Title: Senior Application Developer
+Client: PANYNJ   
+Location: Jersey City, NJ (Hybrid)
+Duration: 4 Years
+
+Job Description:  
+
+The Engineering Solutions Unit is seeking a skilled Application Development Consultant to support the development, enhancement, and maintenance of applications that streamline the Engineering Department’s business processes. The ideal candidate will have expertise in full-stack development, low-code/no-code platforms, system integration, and report generation within a Microsoft-centric application environment.
+
+Mandatory Skills:
+
+· Design, develop, enhance, and upgrade applications to support the Engineering Department’s business processes.
+· Perform the full application development lifecycle, including requirement analysis, design, development, testing, deployment, and maintenance.
+· Build and maintain web applications involving front-end and back-end development, database development, and website hosting.
+· Utilize technologies such as C#, .Net Framework, .Net Core, React, Redux, Node.js, Azure Cloud, and Microsoft SQL.
+· Develop and deploy workflow-enabled applications using low-code/no-code platforms like SharePoint Online/Office 365, MS Power Platform, OpenText Content Server, and eBuilder.
+· Integrate document repositories and workflows with MS SharePoint Online.
+· Integrate custom applications with commercial off-the-shelf (COTS) software.
+· Design and generate reports and dashboards using SQL Server Reporting Services (SSRS), MS Power BI, and IBM Cognos Analytics.
+· Create project-specific report solutions, including flexible reporting with detailed analysis, ad-hoc queries, and threshold-based alerts.
+· Review technical and business specifications to deliver tailored solutions.
+· Support application management and maintenance tasks for the Engineering Solutions Unit.
+· Maintain and support content platforms such as SharePoint and Content Server.
+· Act as a liaison with the Technology Department to ensure seamless application integration and support.

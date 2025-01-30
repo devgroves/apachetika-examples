@@ -1,0 +1,17 @@
+Title: GIS Application Developer
+Client: PANYNJ   
+Location: Jersey City, NJ
+Duration: 4 years 
+
+Job Description:  
+
+The Engineering Solutions Unit is seeking a skilled Application Development Consultant to support the development, enhancement, and maintenance of applications that streamline the Engineering Department’s business processes. The ideal candidate will have expertise in full-stack development, low-code/no-code platforms, system integration, and report generation within a Microsoft-centric application environment.
+
+Mandatory Skills:
+
+· Gather and manage geographic data from various public and private sources, including satellite imagery, surveys, and engineering or agency datasets.
+· Create maps and visualizations to represent geographic data, including thematic maps, 3D visualizations, and interactive web maps.
+· Develop custom GIS applications or integration tools to address specific needs for the Engineering Department or the agency, using desktop or mobile solutions.
+· Utilize GIS solutions such as Esri GIS suite, Nearmap, and VertiGIS, and program in languages like Python, JavaScript, and SQL to create custom scripts, plugins, or web applications.
+· Ensure the accuracy, reliability, and consistency of GIS data and analysis results through quality assurance processes.
+· Use GIS software, particularly Esri, to analyze spatial data and identify patterns, trends, and relationships within the data.

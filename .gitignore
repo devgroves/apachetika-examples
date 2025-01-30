@@ -1,0 +1,45 @@
+# Ignore compiled class files
+*.class
+*.war
+*.ear
+
+# Ignore log files
+*.log
+*.out
+
+# Ignore build directories
+/out/
+/build/
+!src/main/**/build/
+
+# Ignore Gradle files
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Ignore Maven target directory
+/target/
+
+# Ignore IntelliJ project-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore user-specific settings
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.vscode/
+*.bak
+*.tmp
+*.cache
+
+# Ignore dependency caches
+**/.mvn/
+**/.gradle/
