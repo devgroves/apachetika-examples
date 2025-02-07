@@ -1,0 +1,25 @@
+Title: Application Developer
+Client: NYC Agency   
+Location: NYC, NY (Hybrid)
+Duration: 12 Months  
+Work Hours: 40hrs/week
+
+Job Description:
+
+CLIENT has a constant increased need for the provision of full systems life cycle applications development on various computer platforms, including a variety of client eligibility and recertification systems, employment/work engagement services, claims systems, etc., that are critical to the operation and functioning of CLIENT programs, requiring periodic refinements to maintain the applications at optimum service levels. Having a project portfolio which properly reflects the user’s business needs and CLIENT’ workload is crucial. Therefore, there is a need for IT consulting resources for the expanding responsibilities at CLIENT.
+
+Mandatory Skill:
+
+· Minimum 6 years of Develop System Design 
+· Develops and prepares documents for the general design of solutions that meet system and security requirements, including the selection of alternative approaches. 
+· Develops specifications for databases, communication systems, hardware, network, security, storage and software configurations. 
+· Develops structured diagrams for the specifications of databases, communication systems, computer or storage area networks, security or network programs. 
+· Develop and maintain PL/SQL Packages, Stored Procedures, Functions, Triggers, SQL statements in Oracle 12c. 
+· Develop system documentation 
+· Develop operational and installation procedures for communication systems, hardware, network, security, storage and software. 
+· Develops guidelines and upgrade techniques of new operational procedures for the support of databases, hardware systems, operating systems software, network systems software, security and client server systems. 
+· Develops, compiles, maintains and documents configurations of the following: databases, servers, computers, security and network monitor systems, packaged programs, macros, utilities, and communication systems. 
+· Perform System Coding 
+· Create the program code in .NET and Low Code Application Platform (LCAP) environment. 
+· Provide general programming assistance to other ITS programmers/projects as may be needed. 
+Test and maintain the program code to make sure it meets all the functional requirements. 

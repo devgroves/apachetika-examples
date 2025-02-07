@@ -18,23 +18,16 @@ import org.apache.pdfbox.pdmodel.font.PDType1Font;
 import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.net.HttpURLConnection;
-import java.net.URL;
-import java.nio.charset.StandardCharsets;
 
 
+public class DocxConverter {
 
-public class Main {
-
-    private static final String OUTPUT_DIR = "D:\\Nagappansir\\tikaapi\\output";
-    private static final String API_URL = "https://vps69525.inmotionhosting.com/api/job-posts/640";
-    private static final String AUTH_TOKEN = "Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImF1dGgiOiJST0xFX0FETUlOLFJPTEVfVVNFUiIsImV4cCI6MTczNzg5NzExNX0.uRcFk5PHa-WMR6YjcH2hE0Z3VCXcCpBQMBCYB14n1YP6Wmwi9N9wWYA00qYMeGBdammpdAqZqpbGtBkCrHEmig";
+    private static final String OUTPUT_DIR = "output";
 
     public static void main(String[] args) {
         String[] filePaths = {
-                "D:\\Nagappansir\\tikaapi\\SeniorApplicationDeveloper.docx",
-                "D:\\Nagappansir\\tikaapi\\DatabaseArchitectDeveloper.docx",
-                "D:\\Nagappansir\\tikaapi\\GISApplicationDeveloper.docx"
+                "Project Manager-85825Y1023.docx",
+                "Application Developer.docx",
         };
 
         // Ensure output directory exists
